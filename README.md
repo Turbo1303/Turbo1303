@@ -7,8 +7,6 @@
 - HTML
 - CSS
 - Javascript
-- React JS
-- Node JS
 - Python
 - Git y Github
 
@@ -32,7 +30,6 @@
 | ------ | ------ | ------ |
 | Español | Native| **C2**|
 | English | Intermediate | **B1** |
-| French  | Basic |**A2**|
 
 ---
 
